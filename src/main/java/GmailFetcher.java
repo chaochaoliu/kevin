@@ -131,7 +131,7 @@ public class GmailFetcher {
 
     public static void main(String[] args) throws Exception {
         configure();
-        fetchEmail("0919starttowork@gmail.com", "chenguang323", "chrome");
+        fetchEmail("0919starttowork@gmail.com", "", "chrome");
 
         quitDriver();
     }
