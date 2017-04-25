@@ -2,8 +2,8 @@
 # Table of Contents
 1. [Book/CD Return功能用户界面主要结构：](Book/CD)
 2. [Example2](#example2)
-3. [Third Example](#third-example)
-[DVD](DVD)
+3. [Third Example](#third-example)  
+4. [DVD](#DVD)
 
 ## Example
 ## Example2
