@@ -1,6 +1,6 @@
 ## US账户Return功能
 # Table of Contents
-1. [Buyer changed mind](#book/cd-return功能用户界面主要结构)
+1. [Buyer changed mind](#book-return功能用户界面主要结构)
 2. [Example2](#buyer-changed-mind)
 3. [Third Example](#third-example)  
 4. [DVD](#DVD)
@@ -13,7 +13,7 @@
 
 
 
-## Book/CD Return功能用户界面主要结构
+## Book Return功能用户界面主要结构
 * Get return instructions only
 
 * Only ask the buyer for more information
