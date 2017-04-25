@@ -1,6 +1,6 @@
 ## US账户Return功能
 # Table of Contents
-1. [Book/CD Return功能用户界面主要结构：](Book/CD)
+1. [Book/CD Return功能用户界面主要结构：](#Book/CD-Return功能用户界面主要结构：)
 2. [Example2](#example2)
 3. [Third Example](#third-example)  
 4. [DVD](#DVD)
@@ -10,7 +10,7 @@
 ## Third Example
 
 
-### Book/CD Return功能用户界面主要结构：
+## Book/CD Return功能用户界面主要结构：
 * Get return instructions only
 
 * Only ask the buyer for more information
@@ -31,6 +31,10 @@
     * Year
     * Language
     * ISBN
+    
+## Example
+## Example2
+## Third Example
   * Damaged/Defective item
   * Missing parts/accessories
     * CD
