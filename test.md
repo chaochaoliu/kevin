@@ -1,6 +1,6 @@
 ## US账户Return功能
 # Table of Contents
-1. [Buyer changed mind](#Buyer-changed-mind)
+1. [Buyer changed mind](#Buyer changed mind)
 2. [Example2](#example2)
 3. [Third Example](#third-example)  
 4. [DVD](#DVD)
